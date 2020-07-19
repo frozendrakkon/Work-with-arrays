@@ -1,3 +1,4 @@
+
 const arrFirstLetters = ((str) => {  
   const conditionFilter = ((curElement, index, array) => {
     if(index === 0) {
